@@ -24,9 +24,6 @@ python-jose[cryptography]
 firebase-admin
 
 # Payment Processing
-lemon-squeezy
-stripe
-requests
 
 # Storage (AWS S3 & Cloudflare R2)
 boto3
