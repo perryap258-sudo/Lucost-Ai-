@@ -24,7 +24,7 @@ python-jose[cryptography]
 firebase-admin
 
 # Payment Processing
-lemon-squeezy # or use requests for direct API calls
+lemon-squeezy
 stripe
 requests
 
