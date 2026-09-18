@@ -1,5 +1,4 @@
 lucost-ai/
-│
 ├── app/
 │   ├── __init__.py
 │   ├── main.py
@@ -7,10 +6,10 @@ lucost-ai/
 │   ├── models.py
 │   ├── routers.py
 │   └── utils.py
-│
-├── admin.html
-├── dashboard.html
-├── landing.html
+├── static/
+│   ├── landing.html
+│   ├── dashboard.html
+│   └── admin.html
 ├── requirements.txt
 ├── .gitignore
 └── README.md
